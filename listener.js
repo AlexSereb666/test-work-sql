@@ -29,7 +29,7 @@ client.query('LISTEN variablecell_change');
 
 console.log('Ожидание изменений в variablecell...');
 
-// дополнительная информация к выполнению тестового задания //
+// скрипты БД //
 /*
 
 Создание таблицы tablereader:
