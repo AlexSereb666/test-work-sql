@@ -1,0 +1,15 @@
+{
+  "name": "test-work-sql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node listener.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "pg": "^8.12.0"
+  }
+}
